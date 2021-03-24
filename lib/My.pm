@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
-#                                                             my.pl
-
+#                                                             My.pl
 
 package My;
 use v5.16;
@@ -10,7 +9,6 @@ use FindBin qw ( $RealBin );
 use base 'Exporter';
 
 our @EXPORT = qw(encoding);
-
 
 sub encoding
 {
