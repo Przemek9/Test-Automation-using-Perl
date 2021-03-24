@@ -1,7 +1,5 @@
 #!/usr/bin/perl -w
 #                                                             my.pl
-# Authors:                          													P.Jędral, K. Weremijewicz
-#
 
 
 package My;
