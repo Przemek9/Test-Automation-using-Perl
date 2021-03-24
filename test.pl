@@ -1,10 +1,8 @@
 #!/usr/bin/perl -w
 #                                                             test.pl
 
-
 use strict;
-use warnings;
- 
+use warnings; 
 use FindBin qw($Bin);
 use lib "$Bin/lib";
 use My;
